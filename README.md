@@ -1,5 +1,6 @@
 # ECE 4760 Final Project: RPiano 
 
+![Alt text](side.jpg?)
 
 RPiano incorporates both a physical keyboard, and a software midi synthesizer, allowing users to play the physical keyboard by touching the keys, as well as play any MIDI file. It also supports playing both the physical keyboard and a pre-stored MIDI song simultaneously, allowing synthesizing a duet with the user playing one part and the MIDI synthesizer playing the other. Further, each note can be played simulating 3 different instrument sounds - the grand piano, the harp, and bells.
 
